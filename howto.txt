@@ -1,0 +1,18 @@
+*first download and install xampp
+-Atfer the installation make sure to open and start both php and mysql in the xampp sotware
+- Go to its installed directory, specifically into a folder named htdocs 
+-Kindly extract the main software folders here, the project folder i sent u
+
+*secondly, check inside the extrated software(church management folder) and extract a compressed file named pentecostchurch.sql.zip
+
+*Thirdly,Now you have to connect the database to the software de steps are;
+- copy and paste this link http://localhost/phpmyadmin/
+-select import from the toolbar then click on choose file
+-select the extracted file pentecostchurch.sql
+-Then check at the buttom and click go to import the database 
+NOTE: Do not change the database name it must always be pentecostchurch
+
+*Lastly, use this link to open ya software  http://localhost/church%20management/index.html
+*And this for the admin panel http://localhost/church%20management/Admin/login.php 
+NOTE: Default username and password is admin
+
